@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>My First Bitstarter</title>
-    <link type="text/css" rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode&2F%boostrap-2.3.3.css">
+    <link type="text/css" rel="stylesheet" href="https://d396qusza40orc.cloudfrdont.net/startup%2Fcode&2F%boostrap-2.3.3.css">
     <style type="text/css">
       body{
         padding-top:20px;
@@ -32,8 +32,6 @@
         height:40px;
         line-height:40px;
       }
-
-
 
 
 Hello World from index.html
